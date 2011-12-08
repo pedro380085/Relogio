@@ -1,0 +1,333 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* RelogioAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 460}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 473}";
+		};
+	};
+	1D3623250D0F684500981E51 /* RelogioAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1053}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2354}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Relogio */ = {
+		activeExec = 0;
+		executables = (
+			EB76B1B8134E1AF40058433E /* Relogio */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* RelogioViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1180, 920}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 232}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* RelogioViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1180, 920}}";
+			sepNavSelRange = "{492, 0}";
+			sepNavVisRange = "{0, 1467}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = EB76B1B8134E1AF40058433E /* Relogio */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Relogio */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Relogio */,
+		);
+		breakpoints = (
+			EBD16AA9134D3B7E00655813 /* Clock.m:42 */,
+			EBD16ACB134D3CD200655813 /* Clock.m:95 */,
+			EBA491F8134D582500C5B29B /* Clock.m:109 */,
+			EBA4921D134D5C9A00C5B29B /* Clock.m:62 */,
+			EBB53BF7134DF1BF00DF5737 /* Clock.m:57 */,
+			EBB53BF9134DF1C100DF5737 /* Clock.m:51 */,
+		);
+		codeSenseManager = EB76B1CB134E1B130058433E /* Code sense */;
+		executables = (
+			EB76B1B8134E1AF40058433E /* Relogio */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1013,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 323916446;
+			PBXWorkspaceStateSaveDate = 323916446;
+		};
+		perUserProjectItems = {
+			EB76B1D0134E1B250058433E /* PBXTextBookmark */ = EB76B1D0134E1B250058433E /* PBXTextBookmark */;
+			EBAA2D16134E9F9E00F6E1E5 /* PBXTextBookmark */ = EBAA2D16134E9F9E00F6E1E5 /* PBXTextBookmark */;
+			EBB53B9A134DEE2600DF5737 /* PBXTextBookmark */ = EBB53B9A134DEE2600DF5737 /* PBXTextBookmark */;
+			EBC37D59134E75B3007BC2CD /* PBXTextBookmark */ = EBC37D59134E75B3007BC2CD /* PBXTextBookmark */;
+			EBD16B84134D453400655813 /* PBXTextBookmark */ = EBD16B84134D453400655813 /* PBXTextBookmark */;
+			EBD16B85134D453400655813 /* PBXTextBookmark */ = EBD16B85134D453400655813 /* PBXTextBookmark */;
+			EBD16B86134D453400655813 /* PBXTextBookmark */ = EBD16B86134D453400655813 /* PBXTextBookmark */;
+		};
+		sourceControlManager = EB76B1CA134E1B130058433E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	EB76B1B8134E1AF40058433E /* Relogio */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Relogio;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	EB76B1CA134E1B130058433E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	EB76B1CB134E1B130058433E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	EB76B1CC134E1B130058433E /* Clock.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1191, 920}}";
+			sepNavSelRange = "{340, 0}";
+			sepNavVisRange = "{0, 347}";
+		};
+	};
+	EB76B1CD134E1B130058433E /* Clock.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1191, 1638}}";
+			sepNavSelRange = "{2064, 0}";
+			sepNavVisRange = "{1148, 2872}";
+		};
+	};
+	EB76B1D0134E1B250058433E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* RelogioAppDelegate.h */;
+		name = "RelogioAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 473;
+		vrLoc = 0;
+	};
+	EBA491F8134D582500C5B29B /* Clock.m:109 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EB76B1CD134E1B130058433E /* Clock.m */;
+		functionName = "-drawRect:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 109;
+		location = Relogio;
+		modificationTime = 323876459.376081;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	EBA4921D134D5C9A00C5B29B /* Clock.m:62 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EB76B1CD134E1B130058433E /* Clock.m */;
+		functionName = "-drawRect:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 62;
+		location = Relogio;
+		modificationTime = 323876459.376179;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	EBAA2D16134E9F9E00F6E1E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EB76B1CD134E1B130058433E /* Clock.m */;
+		name = "Clock.m: 74";
+		rLen = 0;
+		rLoc = 2064;
+		rType = 0;
+		vrLen = 2872;
+		vrLoc = 1148;
+	};
+	EBB53B9A134DEE2600DF5737 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EB76B1CC134E1B130058433E /* Clock.h */;
+		name = "Clock.h: 20";
+		rLen = 0;
+		rLoc = 340;
+		rType = 0;
+		vrLen = 347;
+		vrLoc = 0;
+	};
+	EBB53BF7134DF1BF00DF5737 /* Clock.m:57 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EB76B1CD134E1B130058433E /* Clock.m */;
+		functionName = "-drawRect:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 57;
+		modificationTime = 323876459.376273;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	EBB53BF9134DF1C100DF5737 /* Clock.m:51 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EB76B1CD134E1B130058433E /* Clock.m */;
+		functionName = "-drawRect:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 51;
+		location = Relogio;
+		modificationTime = 323876459.376411;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	EBC37D59134E75B3007BC2CD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EB76B1CD134E1B130058433E /* Clock.m */;
+		name = "Clock.m: 55";
+		rLen = 0;
+		rLoc = 1147;
+		rType = 0;
+		vrLen = 1882;
+		vrLoc = 0;
+	};
+	EBD16AA9134D3B7E00655813 /* Clock.m:42 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EB76B1CD134E1B130058433E /* Clock.m */;
+		functionName = "-drawRect:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 42;
+		location = Relogio;
+		modificationTime = 323876459.375665;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	EBD16ACB134D3CD200655813 /* Clock.m:95 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = EB76B1CD134E1B130058433E /* Clock.m */;
+		functionName = "-drawRect:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 95;
+		location = Relogio;
+		modificationTime = 323876459.375883;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	EBD16B84134D453400655813 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* RelogioAppDelegate.m */;
+		name = "RelogioAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2354;
+		vrLoc = 0;
+	};
+	EBD16B85134D453400655813 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* RelogioViewController.h */;
+		name = "RelogioViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 232;
+		vrLoc = 0;
+	};
+	EBD16B86134D453400655813 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* RelogioViewController.m */;
+		name = "RelogioViewController.m: 19";
+		rLen = 0;
+		rLoc = 492;
+		rType = 0;
+		vrLen = 1467;
+		vrLoc = 0;
+	};
+}

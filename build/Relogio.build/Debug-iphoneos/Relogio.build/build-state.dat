@@ -1,0 +1,477 @@
+TRelogio
+v7
+r0
+t323876529.737355
+cCheck dependencies
+cCpResource build/Debug-iphoneos/Relogio.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app/Info.plist Relogio-Info.plist
+cCompileXIB /Users/pedro/Documents/Objective-C/Relogio/MainWindow.xib
+cCompileXIB /Users/pedro/Documents/Objective-C/Relogio/RelogioViewController.xib
+cProcessPCH /var/folders/q5/q5yrAwxFHKObSRQfGpAGAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Relogio_Prefix-byqvygfilmbfvjacepcpiunmdfyg/Relogio_Prefix.pch.gch Relogio_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/q5/q5yrAwxFHKObSRQfGpAGAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Relogio_Prefix-duwjlpxnhhviraakonrgaaqbvylp/Relogio_Prefix.pch.gch Relogio_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv6/main.o /Users/pedro/Documents/Objective-C/Relogio/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv6/RelogioAppDelegate.o /Users/pedro/Documents/Objective-C/Relogio/Classes/RelogioAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv6/RelogioViewController.o /Users/pedro/Documents/Objective-C/Relogio/Classes/RelogioViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv6/Clock.o /Users/pedro/Documents/Objective-C/Relogio/Classes/../Clock.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv7/main.o /Users/pedro/Documents/Objective-C/Relogio/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv7/RelogioAppDelegate.o /Users/pedro/Documents/Objective-C/Relogio/Classes/RelogioAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv7/RelogioViewController.o /Users/pedro/Documents/Objective-C/Relogio/Classes/RelogioViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv6/Relogio normal armv6
+cCompileC build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv7/Clock.o /Users/pedro/Documents/Objective-C/Relogio/Classes/../Clock.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv7/Relogio normal armv7
+cCreateUniversalBinary /Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app/Relogio normal "armv6 armv7"
+cGenerateDSYMFile /Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app.dSYM /Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app/Relogio
+cProcessProductPackaging "/Users/pedro/Library/MobileDevice/Provisioning Profiles/670B5A1C-DF1F-4A64-A7A1-CDF52E8B0FBC.mobileprovision" /Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app/embedded.mobileprovision
+cTouch /Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio.xcent
+cCodeSign /Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/pedro/Documents/Objective-C/Relogio/Classes/../Clock.m
+c000000004D9DBF7A0000000000000FBD
+t1302183802
+s4029
+i"Clock.h"
+
+N/Users/pedro/Documents/Objective-C/Relogio/Classes/RelogioAppDelegate.h
+c000000004D9E1BB200000000000001D9
+t1302207410
+s473
+i<UIKit/UIKit.h>
+
+N/Users/pedro/Documents/Objective-C/Relogio/Classes/RelogioAppDelegate.m
+c000000004D9E1BB20000000000000A8F
+t1302207410
+s2703
+i"RelogioAppDelegate.h"
+i"RelogioViewController.h"
+
+N/Users/pedro/Documents/Objective-C/Relogio/Classes/RelogioViewController.h
+c000000004D9E1BB200000000000000E8
+t1302207410
+s232
+i<UIKit/UIKit.h>
+
+N/Users/pedro/Documents/Objective-C/Relogio/Classes/RelogioViewController.m
+c000000004D9E1BB200000000000005BB
+t1302207410
+s1467
+i"RelogioViewController.h"
+
+N/Users/pedro/Documents/Objective-C/Relogio/Clock.h
+c000000004D9DAB04000000000000015B
+t1302178564
+s347
+i<UIKit/UIKit.h>
+
+N/Users/pedro/Documents/Objective-C/Relogio/MainWindow.xib
+c000000004D9E1BB20000000000004E29
+t1302207410
+s20009
+
+N/Users/pedro/Documents/Objective-C/Relogio/RelogioViewController.xib
+c000000004D9DBDE80000000000003C4E
+t1302183400
+s15438
+
+N/Users/pedro/Documents/Objective-C/Relogio/Relogio_Prefix.pch
+c000000004D9E1BB200000000000000B7
+t1302207410
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app
+t1302183729
+s374
+
+N/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app.dSYM
+t1302183729
+s102
+
+N/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app/Info.plist
+t1302183727
+s781
+
+N/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app/MainWindow.nib
+t1302183728
+s1123
+
+N/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app/PkgInfo
+t1302183727
+s8
+
+N/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app/Relogio
+t1302183729
+s66832
+
+N/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app/RelogioViewController.nib
+t1302183728
+s845
+
+N/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app/ResourceRules.plist
+t1302183727
+s485
+
+N/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app/embedded.mobileprovision
+t1302183729
+s7810
+
+N/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv6/Clock.o
+t1302183729
+s48100
+
+N/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv6/Relogio
+t1302183729
+s24524
+
+N/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv6/Relogio.LinkFileList
+c000000004D9DBF2F0000000000000200
+t1302183727
+s512
+
+N/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv6/RelogioAppDelegate.o
+t1302183729
+s50504
+
+N/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv6/RelogioViewController.o
+t1302183728
+s37496
+
+N/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv6/main.o
+t1302183728
+s6456
+
+N/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv7/Clock.o
+t1302183729
+s46692
+
+N/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv7/Relogio
+t1302183729
+s24036
+
+N/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv7/Relogio.LinkFileList
+c000000004D9DBF2F0000000000000200
+t1302183727
+s512
+
+N/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv7/RelogioAppDelegate.o
+t1302183729
+s50424
+
+N/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv7/RelogioViewController.o
+t1302183729
+s37476
+
+N/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv7/main.o
+t1302183729
+s6440
+
+N/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio.xcent
+t1302183729
+s420
+
+N/Users/pedro/Documents/Objective-C/Relogio/main.m
+c000000004D9E1BB20000000000000163
+t1302207410
+s355
+i<UIKit/UIKit.h>
+
+N/Users/pedro/Library/MobileDevice/Provisioning Profiles/670B5A1C-DF1F-4A64-A7A1-CDF52E8B0FBC.mobileprovision
+c000000004D8930900000000000001E82
+t1300836496
+s7810
+
+N/var/folders/q5/q5yrAwxFHKObSRQfGpAGAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Relogio_Prefix-byqvygfilmbfvjacepcpiunmdfyg/Relogio_Prefix.pch.gch
+t1302183728
+s9983704
+
+N/var/folders/q5/q5yrAwxFHKObSRQfGpAGAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Relogio_Prefix-duwjlpxnhhviraakonrgaaqbvylp/Relogio_Prefix.pch.gch
+t1302183728
+s10446552
+
+NRelogio-Info.plist
+c000000004D9E1BB2000000000000038D
+t1302207410
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies323876527#323876527#0(0"0(0#1#0"8668459040#0"0#
+
+CCodeSign /Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app
+s323876529.433892
+e323876529.737313
+r1
+xCodeSign
+x/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app
+lSLF07#2@41"CodeSign build/Debug-iphoneos/Relogio.app323876529#323876529#0(0"0(0#0#75"/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app8635599584#666"    cd /Users/pedro/Documents/Objective-C/Relogio    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: PEDRO P M GOES (SNYZ3L7VEE)" --resource-rules=/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app/ResourceRules.plist --entitlements /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio.xcent /Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app0#
+
+CCompileC build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv6/Clock.o /Users/pedro/Documents/Objective-C/Relogio/Classes/../Clock.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s323876528.791908
+e323876529.036924
+r1
+xCompileC
+xbuild/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv6/Clock.o
+x/Users/pedro/Documents/Objective-C/Relogio/Classes/../Clock.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/pedro/Documents/Objective-C/Relogio/Classes/../Clock.m323876528#323876529#0(0"0(0#0#61"/Users/pedro/Documents/Objective-C/Relogio/Classes/../Clock.m8635100128#1781"    cd /Users/pedro/Documents/Objective-C/Relogio    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-generated-files.hmap -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-own-target-headers.hmap -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-all-target-headers.hmap -iquote /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-project-headers.hmap -F/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos -I/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/include -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/DerivedSources/armv6 -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/DerivedSources -include /var/folders/q5/q5yrAwxFHKObSRQfGpAGAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Relogio_Prefix-byqvygfilmbfvjacepcpiunmdfyg/Relogio_Prefix.pch -c /Users/pedro/Documents/Objective-C/Relogio/Classes/../Clock.m -o /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv6/Clock.o0#
+
+CCompileC build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv6/RelogioAppDelegate.o /Users/pedro/Documents/Objective-C/Relogio/Classes/RelogioAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s323876528.790184
+e323876529.011108
+r1
+xCompileC
+xbuild/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv6/RelogioAppDelegate.o
+x/Users/pedro/Documents/Objective-C/Relogio/Classes/RelogioAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/pedro/Documents/Objective-C/Relogio/Classes/RelogioAppDelegate.m323876528#323876529#0(0"0(0#0#71"/Users/pedro/Documents/Objective-C/Relogio/Classes/RelogioAppDelegate.m8641531040#1804"    cd /Users/pedro/Documents/Objective-C/Relogio    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-generated-files.hmap -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-own-target-headers.hmap -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-all-target-headers.hmap -iquote /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-project-headers.hmap -F/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos -I/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/include -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/DerivedSources/armv6 -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/DerivedSources -include /var/folders/q5/q5yrAwxFHKObSRQfGpAGAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Relogio_Prefix-byqvygfilmbfvjacepcpiunmdfyg/Relogio_Prefix.pch -c /Users/pedro/Documents/Objective-C/Relogio/Classes/RelogioAppDelegate.m -o /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv6/RelogioAppDelegate.o0#
+
+CCompileC build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv6/RelogioViewController.o /Users/pedro/Documents/Objective-C/Relogio/Classes/RelogioViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s323876528.791010
+e323876528.996910
+r1
+xCompileC
+xbuild/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv6/RelogioViewController.o
+x/Users/pedro/Documents/Objective-C/Relogio/Classes/RelogioViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/pedro/Documents/Objective-C/Relogio/Classes/RelogioViewController.m323876528#323876528#0(0"0(0#0#74"/Users/pedro/Documents/Objective-C/Relogio/Classes/RelogioViewController.m8641007904#1810"    cd /Users/pedro/Documents/Objective-C/Relogio    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-generated-files.hmap -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-own-target-headers.hmap -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-all-target-headers.hmap -iquote /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-project-headers.hmap -F/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos -I/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/include -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/DerivedSources/armv6 -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/DerivedSources -include /var/folders/q5/q5yrAwxFHKObSRQfGpAGAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Relogio_Prefix-byqvygfilmbfvjacepcpiunmdfyg/Relogio_Prefix.pch -c /Users/pedro/Documents/Objective-C/Relogio/Classes/RelogioViewController.m -o /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv6/RelogioViewController.o0#
+
+CCompileC build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv6/main.o /Users/pedro/Documents/Objective-C/Relogio/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s323876528.789313
+e323876528.989317
+r1
+xCompileC
+xbuild/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv6/main.o
+x/Users/pedro/Documents/Objective-C/Relogio/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/pedro/Documents/Objective-C/Relogio/main.m323876528#323876528#0(0"0(0#0#49"/Users/pedro/Documents/Objective-C/Relogio/main.m8641897248#1768"    cd /Users/pedro/Documents/Objective-C/Relogio    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-generated-files.hmap -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-own-target-headers.hmap -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-all-target-headers.hmap -iquote /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-project-headers.hmap -F/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos -I/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/include -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/DerivedSources/armv6 -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/DerivedSources -include /var/folders/q5/q5yrAwxFHKObSRQfGpAGAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Relogio_Prefix-byqvygfilmbfvjacepcpiunmdfyg/Relogio_Prefix.pch -c /Users/pedro/Documents/Objective-C/Relogio/main.m -o /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv7/Clock.o /Users/pedro/Documents/Objective-C/Relogio/Classes/../Clock.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s323876529.050394
+e323876529.123808
+r1
+xCompileC
+xbuild/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv7/Clock.o
+x/Users/pedro/Documents/Objective-C/Relogio/Classes/../Clock.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/pedro/Documents/Objective-C/Relogio/Classes/../Clock.m323876529#323876529#0(0"0(0#0#61"/Users/pedro/Documents/Objective-C/Relogio/Classes/../Clock.m8642099200#1781"    cd /Users/pedro/Documents/Objective-C/Relogio    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-generated-files.hmap -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-own-target-headers.hmap -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-all-target-headers.hmap -iquote /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-project-headers.hmap -F/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos -I/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/include -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/DerivedSources/armv7 -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/DerivedSources -include /var/folders/q5/q5yrAwxFHKObSRQfGpAGAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Relogio_Prefix-duwjlpxnhhviraakonrgaaqbvylp/Relogio_Prefix.pch -c /Users/pedro/Documents/Objective-C/Relogio/Classes/../Clock.m -o /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv7/Clock.o0#
+
+CCompileC build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv7/RelogioAppDelegate.o /Users/pedro/Documents/Objective-C/Relogio/Classes/RelogioAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s323876528.997053
+e323876529.088086
+r1
+xCompileC
+xbuild/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv7/RelogioAppDelegate.o
+x/Users/pedro/Documents/Objective-C/Relogio/Classes/RelogioAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/pedro/Documents/Objective-C/Relogio/Classes/RelogioAppDelegate.m323876528#323876529#0(0"0(0#0#71"/Users/pedro/Documents/Objective-C/Relogio/Classes/RelogioAppDelegate.m8640476288#1804"    cd /Users/pedro/Documents/Objective-C/Relogio    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-generated-files.hmap -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-own-target-headers.hmap -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-all-target-headers.hmap -iquote /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-project-headers.hmap -F/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos -I/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/include -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/DerivedSources/armv7 -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/DerivedSources -include /var/folders/q5/q5yrAwxFHKObSRQfGpAGAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Relogio_Prefix-duwjlpxnhhviraakonrgaaqbvylp/Relogio_Prefix.pch -c /Users/pedro/Documents/Objective-C/Relogio/Classes/RelogioAppDelegate.m -o /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv7/RelogioAppDelegate.o0#
+
+CCompileC build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv7/RelogioViewController.o /Users/pedro/Documents/Objective-C/Relogio/Classes/RelogioViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s323876529.011262
+e323876529.087801
+r1
+xCompileC
+xbuild/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv7/RelogioViewController.o
+x/Users/pedro/Documents/Objective-C/Relogio/Classes/RelogioViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/pedro/Documents/Objective-C/Relogio/Classes/RelogioViewController.m323876529#323876529#0(0"0(0#0#74"/Users/pedro/Documents/Objective-C/Relogio/Classes/RelogioViewController.m8636026112#1810"    cd /Users/pedro/Documents/Objective-C/Relogio    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-generated-files.hmap -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-own-target-headers.hmap -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-all-target-headers.hmap -iquote /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-project-headers.hmap -F/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos -I/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/include -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/DerivedSources/armv7 -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/DerivedSources -include /var/folders/q5/q5yrAwxFHKObSRQfGpAGAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Relogio_Prefix-duwjlpxnhhviraakonrgaaqbvylp/Relogio_Prefix.pch -c /Users/pedro/Documents/Objective-C/Relogio/Classes/RelogioViewController.m -o /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv7/RelogioViewController.o0#
+
+CCompileC build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv7/main.o /Users/pedro/Documents/Objective-C/Relogio/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s323876528.989466
+e323876529.050272
+r1
+xCompileC
+xbuild/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv7/main.o
+x/Users/pedro/Documents/Objective-C/Relogio/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/pedro/Documents/Objective-C/Relogio/main.m323876528#323876529#0(0"0(0#0#49"/Users/pedro/Documents/Objective-C/Relogio/main.m8640913600#1768"    cd /Users/pedro/Documents/Objective-C/Relogio    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-generated-files.hmap -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-own-target-headers.hmap -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-all-target-headers.hmap -iquote /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-project-headers.hmap -F/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos -I/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/include -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/DerivedSources/armv7 -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/DerivedSources -include /var/folders/q5/q5yrAwxFHKObSRQfGpAGAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Relogio_Prefix-duwjlpxnhhviraakonrgaaqbvylp/Relogio_Prefix.pch -c /Users/pedro/Documents/Objective-C/Relogio/main.m -o /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/pedro/Documents/Objective-C/Relogio/MainWindow.xib
+s323876527.812652
+e323876528.170240
+r1
+xCompileXIB
+x/Users/pedro/Documents/Objective-C/Relogio/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib323876527#323876528#0(0"0(0#0#57"/Users/pedro/Documents/Objective-C/Relogio/MainWindow.xib8647834304#554"    cd /Users/pedro/Documents/Objective-C/Relogio    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app/MainWindow.nib /Users/pedro/Documents/Objective-C/Relogio/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/pedro/Documents/Objective-C/Relogio/RelogioViewController.xib
+s323876527.813669
+e323876528.165720
+r1
+xCompileXIB
+x/Users/pedro/Documents/Objective-C/Relogio/RelogioViewController.xib
+lSLF07#2@36"CompileXIB RelogioViewController.xib323876527#323876528#0(0"0(0#0#68"/Users/pedro/Documents/Objective-C/Relogio/RelogioViewController.xib8645609408#576"    cd /Users/pedro/Documents/Objective-C/Relogio    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app/RelogioViewController.nib /Users/pedro/Documents/Objective-C/Relogio/RelogioViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCpResource build/Debug-iphoneos/Relogio.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s323876527.680768
+e323876527.812408
+r1
+xCpResource
+xbuild/Debug-iphoneos/Relogio.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist323876527#323876527#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8644926848#502"    cd /Users/pedro/Documents/Objective-C/Relogio    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app0#
+
+CCreateUniversalBinary /Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app/Relogio normal "armv6 armv7"
+s323876529.368381
+e323876529.394256
+r1
+xCreateUniversalBinary
+x/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app/Relogio
+xnormal
+xarmv6 armv7
+lSLF07#2@83"CreateUniversalBinary build/Debug-iphoneos/Relogio.app/Relogio normal "armv6 armv7"323876529#323876529#0(0"0(0#0#54"/Users/pedro/Documents/Objective-C/Relogio/armv6 armv78627219808#534"    cd /Users/pedro/Documents/Objective-C/Relogio    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv6/Relogio /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv7/Relogio -output /Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app/Relogio0#
+
+CGenerateDSYMFile /Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app.dSYM /Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app/Relogio
+s323876529.394337
+e323876529.417359
+r1
+xGenerateDSYMFile
+x/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app.dSYM
+x/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app/Relogio
+lSLF07#2@95"GenerateDSYMFile build/Debug-iphoneos/Relogio.app.dSYM build/Debug-iphoneos/Relogio.app/Relogio323876529#323876529#0(0"0(0#0#83"/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app/Relogio8647286528#374"    cd /Users/pedro/Documents/Objective-C/Relogio    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app/Relogio -o /Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app.dSYM0#
+
+CLd /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv6/Relogio normal armv6
+s323876529.037048
+e323876529.368265
+r1
+xLd
+x/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv6/Relogio
+xnormal
+xarmv6
+lSLF07#2@125"Link /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv6/Relogio323876529#323876529#0(0"0(0#0#0"8645323296#879"    cd /Users/pedro/Documents/Objective-C/Relogio    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos -F/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos -filelist /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv6/Relogio.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv6/Relogio0#
+
+CLd /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv7/Relogio normal armv7
+s323876529.123912
+e323876529.361143
+r1
+xLd
+x/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv7/Relogio
+xnormal
+xarmv7
+lSLF07#2@125"Link /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv7/Relogio323876529#323876529#0(0"0(0#0#0"8640864064#879"    cd /Users/pedro/Documents/Objective-C/Relogio    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos -F/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos -filelist /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv7/Relogio.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Objects-normal/armv7/Relogio0#
+
+CProcessInfoPlistFile /Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app/Info.plist Relogio-Info.plist
+s323876527.681646
+e323876527.709988
+r1
+xProcessInfoPlistFile
+x/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app/Info.plist
+xRelogio-Info.plist
+lSLF07#2@26"Process Relogio-Info.plist323876527#323876527#0(0"0(0#0#61"/Users/pedro/Documents/Objective-C/Relogio/Relogio-Info.plist8644157376#578"    cd /Users/pedro/Documents/Objective-C/Relogio    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Relogio-Info.plist -genpkginfo /Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app/ResourceRules.plist -o /Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app/Info.plist0#
+
+CProcessPCH /var/folders/q5/q5yrAwxFHKObSRQfGpAGAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Relogio_Prefix-byqvygfilmbfvjacepcpiunmdfyg/Relogio_Prefix.pch.gch Relogio_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s323876528.170474
+e323876528.789240
+r1
+xProcessPCH
+x/var/folders/q5/q5yrAwxFHKObSRQfGpAGAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Relogio_Prefix-byqvygfilmbfvjacepcpiunmdfyg/Relogio_Prefix.pch.gch
+xRelogio_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Relogio_Prefix.pch323876528#323876528#0(0"0(0#0#61"/Users/pedro/Documents/Objective-C/Relogio/Relogio_Prefix.pch8641506528#1662"    cd /Users/pedro/Documents/Objective-C/Relogio    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-generated-files.hmap -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-own-target-headers.hmap -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-all-target-headers.hmap -iquote /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-project-headers.hmap -F/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos -I/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/include -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/DerivedSources/armv6 -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/DerivedSources -c /Users/pedro/Documents/Objective-C/Relogio/Relogio_Prefix.pch -o /var/folders/q5/q5yrAwxFHKObSRQfGpAGAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Relogio_Prefix-byqvygfilmbfvjacepcpiunmdfyg/Relogio_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/q5/q5yrAwxFHKObSRQfGpAGAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Relogio_Prefix-duwjlpxnhhviraakonrgaaqbvylp/Relogio_Prefix.pch.gch Relogio_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s323876528.171429
+e323876528.785981
+r1
+xProcessPCH
+x/var/folders/q5/q5yrAwxFHKObSRQfGpAGAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Relogio_Prefix-duwjlpxnhhviraakonrgaaqbvylp/Relogio_Prefix.pch.gch
+xRelogio_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Relogio_Prefix.pch323876528#323876528#0(0"0(0#0#61"/Users/pedro/Documents/Objective-C/Relogio/Relogio_Prefix.pch8640996512#1662"    cd /Users/pedro/Documents/Objective-C/Relogio    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-generated-files.hmap -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-own-target-headers.hmap -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-all-target-headers.hmap -iquote /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio-project-headers.hmap -F/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos -I/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/include -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/DerivedSources/armv7 -I/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/DerivedSources -c /Users/pedro/Documents/Objective-C/Relogio/Relogio_Prefix.pch -o /var/folders/q5/q5yrAwxFHKObSRQfGpAGAk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Relogio_Prefix-duwjlpxnhhviraakonrgaaqbvylp/Relogio_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/pedro/Library/MobileDevice/Provisioning Profiles/670B5A1C-DF1F-4A64-A7A1-CDF52E8B0FBC.mobileprovision" /Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app/embedded.mobileprovision
+s323876529.417454
+e323876529.426154
+r1
+xProcessProductPackaging
+x/Users/pedro/Library/MobileDevice/Provisioning Profiles/670B5A1C-DF1F-4A64-A7A1-CDF52E8B0FBC.mobileprovision
+x/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app/embedded.mobileprovision
+lSLF07#2@192"ProcessProductPackaging "/Users/pedro/Library/MobileDevice/Provisioning Profiles/670B5A1C-DF1F-4A64-A7A1-CDF52E8B0FBC.mobileprovision" build/Debug-iphoneos/Relogio.app/embedded.mobileprovision323876529#323876529#0(0"0(0#0#100"/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app/embedded.mobileprovision8642111520#431"    cd /Users/pedro/Documents/Objective-C/Relogio    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/pedro/Library/MobileDevice/Provisioning Profiles/670B5A1C-DF1F-4A64-A7A1-CDF52E8B0FBC.mobileprovision" -o /Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio.xcent
+s323876529.428550
+e323876529.433847
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio.xcent
+lSLF07#2@175"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio.xcent323876529#323876529#0(0"0(0#0#105"/Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio.xcent8632628032#440"    cd /Users/pedro/Documents/Objective-C/Relogio    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/pedro/Documents/Objective-C/Relogio/build/Relogio.build/Debug-iphoneos/Relogio.build/Relogio.xcent0#
+
+CTouch /Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app
+s323876529.426200
+e323876529.428486
+r1
+xTouch
+x/Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app
+lSLF07#2@81"Touch /Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app323876529#323876529#0(0"0(0#0#0"8640939904#272"    cd /Users/pedro/Documents/Objective-C/Relogio    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pedro/Documents/Objective-C/Relogio/build/Debug-iphoneos/Relogio.app0#
+
